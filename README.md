@@ -13,6 +13,6 @@ npm run dev
 
 ## Contact
 
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-link
+- Email: samikshaparit04902@gmail.com
+- LinkedIn: https://linkedin.com/in/samiksha-parit08
 - GitHub: https://github.com/samu0402
